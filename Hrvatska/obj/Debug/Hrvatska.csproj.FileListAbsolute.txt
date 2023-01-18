@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\Hrvatska\bin\Debug\Hrvatska.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\Hrvatska\bin\Debug\Hrvatska.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\Hrvatska\bin\Debug\Hrvatska.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\Hrvatska\obj\Debug\Hrvatska.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Hrvatska\obj\Debug\Hrvatska.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Hrvatska\obj\Debug\Hrvatska.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Hrvatska\obj\Debug\Hrvatska.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\Hrvatska\obj\Debug\Hrvatska.pdb
