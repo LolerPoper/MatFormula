@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\Brojevi\bin\Debug\Brojevi.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\Brojevi\bin\Debug\Brojevi.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\Brojevi\bin\Debug\Brojevi.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\Brojevi\obj\Debug\Brojevi.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Brojevi\obj\Debug\Brojevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Brojevi\obj\Debug\Brojevi.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\Brojevi\obj\Debug\Brojevi.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\Brojevi\obj\Debug\Brojevi.pdb
