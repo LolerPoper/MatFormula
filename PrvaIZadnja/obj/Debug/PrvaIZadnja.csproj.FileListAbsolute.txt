@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\PrvaIZadnja\bin\Debug\PrvaIZadnja.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\PrvaIZadnja\bin\Debug\PrvaIZadnja.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\PrvaIZadnja\bin\Debug\PrvaIZadnja.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\PrvaIZadnja\obj\Debug\PrvaIZadnja.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\PrvaIZadnja\obj\Debug\PrvaIZadnja.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\PrvaIZadnja\obj\Debug\PrvaIZadnja.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\PrvaIZadnja\obj\Debug\PrvaIZadnja.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\PrvaIZadnja\obj\Debug\PrvaIZadnja.pdb
