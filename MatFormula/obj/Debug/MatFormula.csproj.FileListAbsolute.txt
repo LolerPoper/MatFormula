@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\MatFormula\bin\Debug\MatFormula.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\MatFormula\bin\Debug\MatFormula.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\MatFormula\bin\Debug\MatFormula.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\MatFormula\obj\Debug\MatFormula.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\MatFormula\obj\Debug\MatFormula.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\MatFormula\obj\Debug\MatFormula.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\MatFormula\obj\Debug\MatFormula.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\MatFormula\obj\Debug\MatFormula.pdb
